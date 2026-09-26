@@ -19,6 +19,7 @@ Plugins/**/Intermediate/
 *.opensdf
 *.VC.db
 *.VC.opendb
+.mcp.json
 
 # Divers
 *.log
